@@ -1,4 +1,6 @@
-Basic react app by rendering JSX in ReactDOM.render   
+Basic react app by creating react elements and rendering them. All necesary code
+in index.js.
+
 ## Usage
 
 ### `npm start`
